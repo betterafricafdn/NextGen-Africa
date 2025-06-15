@@ -32,7 +32,8 @@ test test_bytes() {
 }
 
 pub fn my_func() {
-  todo @"not working on it now"
+  // todo @"not working on it now"
+  Void
 }
 
 test test_boolean() {
